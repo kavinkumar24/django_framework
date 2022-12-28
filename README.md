@@ -8,8 +8,7 @@ Django was created in 2003 by Python programmers Adrian Holovaty and Simon Willi
 
 For install django in you computer or pc follow the below steps:
 
-`
-  steps: 
+
     a) first you should create a empty folder in your local storage 
     b) open a code editor either visual studio or pycharm 
     c) open the teminal in that editor by pressing ctrl+ tag (in windows)
@@ -26,7 +25,8 @@ For install django in you computer or pc follow the below steps:
         it will generate the a local ip address copy that and paste in a browser it will run with the symbol of rocket 
         
         
-        
+ `
+  steps: 
     i) After the above steps : 
       give the command:
             1. python manage.py startapp your_app_name 
