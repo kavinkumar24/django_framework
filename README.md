@@ -37,7 +37,7 @@ For install django in you computer or pc follow the below steps:
             In that same folder create a  folder templates create a html page, and also it that create a another folder named static in 
             that creata a external css files 
             
-          2. after creating that open views.py in that :
+     ii) after creating that open views.py in that :
       write :
       
       
