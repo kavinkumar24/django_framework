@@ -29,7 +29,7 @@ For install django in you computer or pc follow the below steps:
         
     i) After the above steps : 
       give the command:
-            i) python manage.py startapp your_app_name 
+            1. python manage.py startapp your_app_name 
             it will create a another folder in the previous folder downloaded 
             In that there are many files like 
             admin.py,models.py,apps.py,views.py etc.,
@@ -37,7 +37,7 @@ For install django in you computer or pc follow the below steps:
             In that same folder create a  folder templates create a html page, and also it that create a another folder named static in 
             that creata a external css files 
             
-      ii) after creating that open views.py in that :
+          2. after creating that open views.py in that :
       write :
       
       
