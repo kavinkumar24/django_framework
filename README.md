@@ -73,4 +73,4 @@ For install django in you computer or pc follow the below steps:
               Python manage.py runserver 
               In case if you want to connect with backend refer my files (models.py)
               
-              Thank you
+                                            Thank you
