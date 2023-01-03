@@ -62,11 +62,9 @@ For install django in you computer or pc follow the below steps:
               path('',views.greet)
               ]
               
-              
               In urls.py is used to connect the html fiel with browser
               In views.py is used to display the html content in front-end
               
-             
              iv) If errors occurs means eg:
              Template error
              Open settings.py in that in 40th line (intalled apps :)
